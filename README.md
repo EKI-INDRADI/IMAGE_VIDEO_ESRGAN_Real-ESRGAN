@@ -1,3 +1,7 @@
+https://colab.research.google.com/github/MSFTserver/AI-Colab-Notebooks/blob/main/ESRGAN_4_Video.ipynb (colab)
+https://www.youtube.com/watch?v=3xZ6W6DTT5Q&ab_channel=Social%26Apps (example)
+
+
 <p align="center">
   <img src="assets/realesrgan_logo.png" height=120>
 </p>
